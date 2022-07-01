@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ahlenius.swiftfinalclass.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ahlenius.swiftfinalclass.MyBundle
 
 class MyApplicationService {
 
